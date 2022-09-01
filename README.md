@@ -19,7 +19,10 @@
 ## Languages 📚
 
 <p align="center"> 🇰🇷 🇺🇸 </p>
-<img src="https://img.shields.io/badge/Nike-#111111?styleflat-square&logo=Nike&logoColor=white"/>
+<p>
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
+</p>
+
 
 
 ## 💫 m e
