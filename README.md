@@ -22,7 +22,7 @@
 
  <p>
  <img src="https://img.shields.io/badge/Nike-#007396?style=flat-square&logo=Nike&logoColor=white"/>]
-   https://img.shields.io/badge/Nike-#11111?style=flat-square&logo=Nike&logoColor=White
+   <img src ="https://img.shields.io/badge/Nike-#11111?style=flat-square&logo=Nike&logoColor=White"/>
 </p>
 
 
