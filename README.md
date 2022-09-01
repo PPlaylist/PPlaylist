@@ -1,16 +1,23 @@
-### Hi there 👋
+<div align=center>
 
-<!--
-**PPlaylist/PPlaylist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=onehowon&fontSize=70&animation=twinkling)
+  
+![thumper-sliding-on-ice-wgct6df989sucj5d](https://user-images.githubusercontent.com/81984723/186635385-3a2968f1-f464-432f-8ea9-994d32db3e6f.gif)
 
-Here are some ideas to get you started:
+  
+<div align=left>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Hi there 👋
+
+ 
+
+
+<div align=center>
+ 
+
+## Languages 📚
+
+<p align="center"> 🇰🇷 🇺🇸 </p>
+
+## 💫 m e
+ 
